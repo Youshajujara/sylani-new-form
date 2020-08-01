@@ -1,0 +1,21 @@
+.A{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: large;
+        background-color: whitesmoke;
+        color:blueviolet;
+}
+.B{
+        font-size: medium;
+        font-family: serif;
+        background-color: slateblue;
+        color:whitesmoke;
+}
+.C{
+        font-family: serif;
+        font-size: larger;
+        color:whitesmoke;
+        background-color: slateblue;
+}
+.o{
+    text-decoration: underline;
+}
